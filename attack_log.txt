@@ -1,0 +1,6 @@
+
+[2026-10-15 00:17:37] HTTPS Flood - Target: mosnita.ro - Threads: 1000 - Duration: 60s - Packets: 81,892 - Avg RPS: 1355
+
+[2026-10-15 00:23:13] HTTPS Flood - Target: portosync.ro - Threads: 7000 - Duration: 90s - Packets: 14,637 - Avg RPS: 142
+
+[2026-10-15 00:54:00] SYN Flood - Target: 104.29.142.107 - Threads: 1000 - Duration: 60s - Packets: 1,210,110 - Avg RPS: 19992

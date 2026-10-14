@@ -1,0 +1,41 @@
+[
+    {
+        "timestamp": "2026-10-15T00:17:37.939144",
+        "attack_type": "HTTPS_FLOOD",
+        "target": "mosnita.ro",
+        "stats": {
+            "duration": 60.157350063323975,
+            "total_packets": 81892,
+            "avg_rps": 1354.6155198579438,
+            "max_rps": 18933.976725721932,
+            "min_rps": 0.0,
+            "avg_pps": 1361.296664726709
+        }
+    },
+    {
+        "timestamp": "2026-10-15T00:23:13.130984",
+        "attack_type": "HTTPS_FLOOD",
+        "target": "portosync.ro",
+        "stats": {
+            "duration": 91.75610375404358,
+            "total_packets": 14637,
+            "avg_rps": 141.8540653866232,
+            "max_rps": 39761.820151679305,
+            "min_rps": 0.0,
+            "avg_pps": 159.5207228854785
+        }
+    },
+    {
+        "timestamp": "2026-10-15T00:54:00.677827",
+        "attack_type": "SYN_FLOOD",
+        "target": "104.29.142.107",
+        "stats": {
+            "duration": 60.19372010231018,
+            "total_packets": 1210110,
+            "avg_rps": 19992.417652114207,
+            "max_rps": 37550.73362247097,
+            "min_rps": 0.0,
+            "avg_pps": 20103.592167807503
+        }
+    }
+]

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  ddos-tool:
+    build: .
+    container_name: ddos-tool
+    stdin_open: true
+    tty: true
+    privileged: true
+    network_mode: host
+    restart: unless-stopped
